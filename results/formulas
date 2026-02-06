@@ -13,5 +13,12 @@ S = √(P² + Q²)
 
 S = √(500² + 20²) ≈ **500.4 kVA**
 
+cosφ=P/S=500./500.4=0.9992
+sinφ=Q/S=2/500.4=0.04
+S=√3*V*I=√3*400*I     I=722A   line to line rms current 
+Z=Vphasei/Iphase    Z=(400/√3)/722=0.32
+R=Z*cosφ=0.319
+X=Z*sinφ=0.013
+
 phase
 
