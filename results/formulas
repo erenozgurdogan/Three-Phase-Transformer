@@ -1,0 +1,15 @@
+
+A **22 kV / 400 V three-phase transformer** supplies a load with:
+İnput phase-phase voltage 22 kV rms  İnput max phase to phase voltage 22*√2=31.11 kV
+
+- **Active power (P):** 500 kW  
+- **Reactive power (Q):** 20 kVAr  
+
+The apparent power is calculated as:
+
+S = √(P² + Q²)
+
+S = √(500² + 20²) ≈ **500.4 kVA**
+
+phase
+
