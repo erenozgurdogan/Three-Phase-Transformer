@@ -1,1 +1,18 @@
+In an open circuit test, all current flows through Rc and Xm.
+The winding resistance and leakage reactance are negligible
+compared to Rc and Xm.
 
+First, the power factor is calculated using the formula:
+P = 3*V * I * cosφ
+
+Then, the current components are obtained as:
+Ic = I0 * cosφ
+Im = I0 * sinφ
+
+Since the voltage across the core branch elements is V1,
+the parameters are calculated as:
+Rc = V1 / Ic
+Xm = V1 / Im
+
+Finally, since X = ωL, the inductance is calculated as:
+L = Xm / ω
